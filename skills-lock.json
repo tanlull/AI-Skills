@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "mql5": {
+      "source": "tanlull/AI-Skills",
+      "sourceType": "github",
+      "computedHash": "95190180b062d9c8616e077d5be7890673e6de7ae60d3804a1ecc2af9f8a3d9c"
+    }
+  }
+}
